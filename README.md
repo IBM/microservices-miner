@@ -2,8 +2,12 @@
 microservices-miner
 ===================
 
-A mining tool for collecting microservices data from Github repositories
+A mining tool for collecting microservices data from Github repositories. This tool has been implemented for collecting metrics for a study described in the following paper:
 
+
+Tizzei, L.P.; Azevedo L.G, Soares, E.; Tiago R., Costa, R. On the Maintenance of a Scientific Application based on Microservices: an Experience Report. Proceedings of the International Conference on Web Services. 2020
+
+For extra information about the paper, please go to this [page](docs/ICWSPaper.md). For more information about the tool, continue here.
 
 ## Installation
 This tool has been implemented using python 3.7. Create your virtual environment and install the dependencies using pip.
