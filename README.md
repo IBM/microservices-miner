@@ -28,6 +28,8 @@ pip install -r requirements.txt
 5. Go to microservices-miner home dir
 5. Run `python microservices_miner/mining/ghe_extractor.py --path <full-path-to-input-data>` and check the log file `github_miner.log`
 
+## Bug Reports
+Please, create an issue if you have found a bug
 
 ## License
 
