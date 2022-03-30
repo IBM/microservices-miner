@@ -31,6 +31,10 @@ pip install -r requirements.txt
 ## Bug Reports
 Please, create an issue if you have found a bug
 
+## Automated Testing
+Pre-requisites: steps 1, 2, and 3 of the "Extracting data from GHE" section have been executed
+1. Run pytest tests/
+
 ## License
 
 [MIT license](LICENSE)
