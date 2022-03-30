@@ -2,6 +2,8 @@
 microservices-miner
 ===================
 
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5850/badge)](https://bestpractices.coreinfrastructure.org/projects/5850)
+
 A mining tool for collecting microservices data from Github repositories. This tool has been implemented for collecting metrics for a study described in the following paper:
 
 
