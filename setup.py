@@ -12,7 +12,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     'matplotlib==3.3.0',
-    'numpy==1.21.0',
+    'numpy==1.22.0',
     'pandas==1.0.5',
     'requests==2.24.0',
     'scikit-learn==0.23.1',
